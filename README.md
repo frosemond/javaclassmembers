@@ -14,3 +14,4 @@ The instructor's name is Felicia Rosemond
 - Jacquese Goins
 - Byron Johnson
 - Amy Shropshire
+- Kevin Roza
