@@ -2,8 +2,8 @@
 
 ## Instructor
 
-The instructor's name is Scott Dossey
+The instructor's name is Felicia Rosemond
 
 ## Students
 
-* Test student 1
+* Felicia Rosemond
