@@ -9,3 +9,4 @@ The instructor's name is Felicia Rosemond
 * Felicia Rosemond
 * Lawrence Harper
 * Brian Wilcove
+* Ewa Szataniak
