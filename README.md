@@ -13,3 +13,4 @@ The instructor's name is Felicia Rosemond
   \*Joshua Onoh
 - Jacquese Goins
 - Byron Johnson
+- Amy Shropshire
