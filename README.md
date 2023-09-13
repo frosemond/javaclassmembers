@@ -11,3 +11,4 @@ The instructor's name is Felicia Rosemond
 * Brian Wilcove
 * Ewa Szataniak
 *Joshua Onoh
+*Jacquese Goins
